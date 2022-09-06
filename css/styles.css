@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+}
+.header-container {
+    color: #f8f9fa;
+    background-color: #6c757d;
+    display: flex;
+}
+
+div .links {
+
+}
+
+.section-container {
+    background-color: #ced4da;
+}
+
+.section-container-two {
+    color: #f8f9fa;
+    background-color: #495057;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: start;
+    background-color: #6c757d;
+}
+
+.footer-font {
+    color: #f8f9fa;
+    width: 400px;
+    font-size: small;
+    text-align: center;
+}
+
